@@ -1,5 +1,7 @@
 # 🧠 AI Math Visualiser
 
+Website Link: https://ai-math-visualiser-nshmevfubteenmy3hxpw3r.streamlit.app/ 
+
 **Explore how mathematics powers machine learning — interactively and intuitively!**
 
 A Streamlit web app that helps you *see* how equations become intelligence.  
